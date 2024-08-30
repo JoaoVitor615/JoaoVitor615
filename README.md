@@ -1,10 +1,5 @@
 
 <!--
-# Quem sou eu? 🤨
-
-Opa! Me chamo Gustavo Pereira da Silva e tenho 19 anos. Tenho formação técnica em Desenvolvimento de Sistemas e estou cursando o 4º semestre de ADS na Fatec-SP. Estou sempre aberto a novas oportunidades de aprendizado 😉.
-
-
 ## Contatos
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-pereira-da-silva-b5b684247/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gustavo.pds0303@gmail.com)
@@ -14,7 +9,6 @@ Opa! Me chamo Gustavo Pereira da Silva e tenho 19 anos. Tenho formação técnic
 ## Estudando/Interesse
 
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 
 ## Linguagens
 
