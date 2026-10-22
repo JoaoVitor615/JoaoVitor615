@@ -1,49 +1,42 @@
+<div align="center">
 
-## Contatos
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jvboaventura/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jvpeniza@gmail.com)
+# Hi, I'm João Vítor 👋
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=900&color=36BCF7&center=true&vCenter=true&width=780&lines=Software+Engineer+%40+Mercado+Libre;Go%2C+Java+%26+Distributed+Systems;Building+resilient%2C+low-latency+systems)](https://git.io/typing-svg)
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jvboaventura/)
+[![Email](https://img.shields.io/badge/Email-Say%20hello-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:jvpeniza@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat&logo=github&logoColor=white)](https://github.com/JoaoVitor615)
 
-## Linguagens
+</div>
 
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
-![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+## About me
 
-## Frameworks/Libs
+Hi, welcome to my profile! If you want to know about me, I'm a Software Engineer that work on systems that handle millions of requests, using Go (usually), and distributed systems to keep things reliable and fast.
 
-![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Gin Badge](https://img.shields.io/badge/Gin-008ECF?logo=gin&logoColor=fff&style=for-the-badge)
-![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+I also like building side projects, reading about system design, and exploring algorithms and computer architecture. 
 
-## Bancos de dados
+## What I enjoy working on
 
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+`Go` · `Java` · `Python` · `Typescript` · `Distributed Systems` · `System Design` · `Algorithms` · `Software Architecture`
 
-## ORM's
+## Selected projects
 
-![TypeORM](https://img.shields.io/static/v1?style=for-the-badge&message=TypeORM&color=FE0803&logo=TypeORM&logoColor=FFFFFF&label=)
-![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
-![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white)
+- **[gochat](https://github.com/JoaoVitor615/gochat)** — A terminal-based peer-to-peer chat written in Go.
+- **[URL-shortener](https://github.com/JoaoVitor615/URL-shortener)** — A Go API exploring DynamoDB, Docker, and OpenTelemetry.
+- **[algorithms-in-go](https://github.com/JoaoVitor615/algorithms-in-go)** — Data structures and algorithms implemented in Go.
 
-## Ferramentas em Geral
+## GitHub activity
 
-![VSCode](https://img.shields.io/badge/-VSCODE-007ACC?style=for-the-badge&&logo=visual-studio-code&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+<div align="center">
 
-<!--![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:865DFF,100:5CB8E4&height=120&section=footer)-->
+[![João's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaoVitor615&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true)](https://github.com/JoaoVitor615)
+[![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoVitor615&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/JoaoVitor615)
+
+</div>
+
+<div align="center">
+
+*Feel free to connect!*
+
+</div>
