@@ -31,7 +31,7 @@ I also like building side projects, reading about system design, and exploring a
 <div align="center">
 
 [![João's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaoVitor615&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true)](https://github.com/JoaoVitor615)
-[![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoVitor615&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/JoaoVitor615)
+[![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoVitor615&layout=compact&theme=tokyonight&hide_border=true&hide=css)](https://github-readme-stats.vercel.app/api/JoaoVitor615)
 
 </div>
 
