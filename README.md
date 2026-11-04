@@ -30,6 +30,7 @@ I also like building side projects, reading about system design, and exploring a
 
 <div align="center">
 
+![Metrics](./metrics.svg)
 
 </div>
 
